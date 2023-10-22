@@ -40,7 +40,7 @@ Read All Commands
 
 # Deploy
 
-<p align="center"><a href="https://heroku.com/deploy">
+<p align="center"><a href="https://heroku.com/deployhttps://github.com/Dinobonecrash1/Music">
   <img src="https://img.shields.io/badge/Heroku%20Deploy-pink?style=for-the-badge&logo=heroku" width="325" height="50.100" /></a></p>
 
 #
